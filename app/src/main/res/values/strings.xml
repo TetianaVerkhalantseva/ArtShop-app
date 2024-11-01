@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Oblig3_Verkhalantseva</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <!--TopAppBar-->
+    <string name="art_dealer">Kunsthandleren</string>
+    <string name="choose_artist">Velg kunstner</string>
+    <string name="choose_category">Velg kategori</string>
+    <string name="selected_photo">Valgt bilde</string>
+    <string name="payment">Betaling</string>
+    <!--Headers-->
+    <string name="header_category">Kategori: %1$s</string>
+    <string name="header_artist">Kunstner: %1$s</string>
+    <!--Buttons-->
+    <string name="button_artists">Kunstner</string>
+    <string name="button_category">Kategori</string>
+    <string name="button_delete">Slett</string>
+    <string name="button_go_to_payment">Gå til betaling</string>
+    <string name="button_add_to_cart">Legg i handlekurv</string>
+    <string name="button_go_to_home">Hjem</string>
+    <string name="button_pay">Betal</string>
+    <string name="button_ok">Ok</string>
+    <!--Main screen-->
+    <string name="select_photo_based_on">Velg bilde basert på</string>
+    <string name="my_cart">Min handlekurv</string>
+    <string name="number_of_photos_selected">Antall valgte bilder: %1$d</string>
+    <string name="total_price_incl_frame">Totalpris (inkl. ramme): %1$.2f</string>
+    <string name="photo_title_info">Bilde: %1$s</string>
+    <string name="photo_size_info">Bildestørrelse: %1$s</string>
+    <string name="frame_type_and_width_info">Rammeinfo: %1$s, %2$d mm</string>
+    <string name="price_incl_frame">Pris (inkl. ramme): %1$.2f,-</string>
+    <!--SelectedPhotoScreen-->
+    <string name="frame_type">Rammetype</string>
+    <string name="frame_width">Rammebredde</string>
+    <string name="photo_size">Bildestørrelse</string>
+    <string name="small">Lite</string>
+    <string name="medium">Middels</string>
+    <string name="large">Stort</string>
+    <string name="small_10mm">10 mm</string>
+    <string name="medium_15mm">15 mm</string>
+    <string name="large_20mm">20 mm</string>
+    <string name="metal">Metall</string>
+    <string name="wood">Tre</string>
+    <string name="plastic">Plast</string>
+    <string name="calculated_price">Beregnet pris: %1$.2f</string>
+    <!--Payment screen-->
+    <string name="summary_of_choice">Oppsummert valg:</string>
+    <string name="frame_type_info">Rammetype: %1$s</string>
+    <string name="frame_width_info">Rammebredde: %1$d mm</string>
+    <string name="photo_price">Basispris: %1$.2f</string>
+    <string name="photo_price_for_size">Pris per størrelse: %1$.2f</string>
+    <string name="frame_price">Pris på ramme: %1$.2f</string>
+    <string name="payment_choice">Betalingsvalg:</string>
+    <string name="card_no">Kortnr: 9999.1122333</string>
+    <string name="expiration_date">Utlopsmaned: 06.27</string>
+    <string name="cvc_no">Tresifret nr: 123</string>
+    <string name="payment_received">Din betaling er mottatt og lagt til forfall. \n\nTakk for handelen!</string>
+    <!--Artists-->
+    <string name="artist1">Mike Chandler</string>
+    <string name="artist2">Lindsey Griffith</string>
+    <string name="artist3">Julian Allen</string>
+    <string name="artist4">Cheryl Nelson</string>
+    <string name="artist5">Daniel Hill</string>
+    <string name="artist6">Holly Anderson</string>
+    <!--Artists and category screens-->
+    <string name="number_of_photos">Antall bilder: %1$d</string>
+    <string name="most_expensive_photo">Dyreste bilde: %1$s</string>
+    <string name="most_expensive_photo_price">Pris på dyreste bilde: %1$.2f</string>
+    <!--Categories-->
+    <string name="hobby">Fritid</string>
+    <string name="nature">Natur</string>
+    <string name="architecture">Arkitektur</string>
+    <string name="dogs">Hunder</string>
+    <string name="various">Diverse</string>
+    <!--Photo titles-->
+    <string name="skiing">Slalom</string>
+    <string name="music">Musikk</string>
+    <string name="photographing">Fotografering</string>
+    <string name="filming">Filming</string>
+    <string name="chess">Sjakk</string>
+    <string name="walking">Gå en tur</string>
+
+    <string name="desert">Ørken</string>
+    <string name="sandstone">Sandstein</string>
+    <string name="canyon">Dal</string>
+    <string name="river">Elv</string>
+
+    <string name="skyline">Skyline</string>
+    <string name="highbuilding">Høyhus</string>
+    <string name="skyscrapers">Skyskrapere</string>
+    <string name="wall">Great Wall</string>
+    <string name="bridge">Bro</string>
+    <string name="cityscape">Bylandskap</string>
+
+    <string name="bella">Bella</string>
+    <string name="faye">Faye</string>
+    <string name="frankie">Frankie</string>
+    <string name="koda">Koda</string>
+    <string name="leroy">Leroy</string>
+    <string name="lola">Lola</string>
+    <string name="moana">Moana</string>
+    <string name="nox">Nox</string>
+    <string name="tzeitel">Tzeitel</string>
+
+    <string name="parking">Parkering</string>
+    <string name="seahorses">Sjøhester</string>
+    <string name="parrot">Papegøye</string>
+    <string name="grass">Gresseng</string>
+    <string name="car">Bil</string>
+    <string name="umbrellas">Paraplyer</string>
+    <string name="citylights">Bylys</string>
+    <string name="plasmaball">Plasmalampe</string>
+
+    <!--TestTag-->
+    <string name="lazyPhotoInfoItemTagWithIndex">LazyPhotoInfoItem%1$d</string>
+    <string name="lazyPhotoItemTagWithIndex">LazyPhotoItem%1$d</string>
+    <string name="calculatedSelectedPhotoPriceTag">CalculatedSelectedPhotoPriceTag</string>
+
+    <string name="photoSizeTag">PhotoSizeTag%1$s</string>
+    <string name="frameTypeTag">FrameTypeTag%1$s</string>
+    <string name="frameWidthTag">FrameWidthTag%1$s</string>
+</resources>
